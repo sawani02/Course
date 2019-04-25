@@ -1,9 +1,9 @@
-# Applied Machine Learning with Big Data
+# Applied Deep Learning with Big Data
 
 ### Tools
 
 The following cloud-based programming environment will be provided to each student: 
-Python, Python libraries for linear algebra, plotting, machine learning, TensorFlow, Storm, Spark, and Github for submitting project code.
+Python, Python libraries for linear algebra, plotting, machine learning, TensorFlow, and Github for submitting project code.
 
 ### Recommended Background
 
@@ -29,13 +29,17 @@ No required text book. Slides will be uploaded in GitHub.
 
 ### Grading Criteria 
 
-Quizzes (10%)
+Quizzes (20%)
 
-Assignments (20% total)
+Assignments (15%)
 
-Mid-terms (15% each)
+Course project (65%)
 
-Course project (45%) 
+1.Read paper and define a ML problem (required instructor approval) 2.ML programming and implementation 3.Project presentation 4.Project documentation 
+
+Extra grade (5%)
+
+This is a sample programming exercise defined by students but required instructor approval
 
 ### Syllabus
 
@@ -46,6 +50,7 @@ Course project (45%)
 - Real-World Data Samples
 - Linear Algebra
 - Probability and Information Theory
+- TensorFlow Programming
 - Linear Regression and Classification
 - Logistic Regression
 - Building Machine Learning Models
@@ -55,9 +60,8 @@ Course project (45%)
 - Recurrent NNs
 - Deep NLP
 - Reinforcement Learning
-- Apache Spark: Machine Learning on Big Data
 
-### Review 
+### Review as time permits
 
 - K-Means Clustering
 - Principal Component Analysis
@@ -65,3 +69,4 @@ Course project (45%)
 - Decision Trees and Random Forests
 - Support Vector Machines
 - K-Nearest Neighbor
+- Apache Spark: Machine Learning on Big Data
